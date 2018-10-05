@@ -7,6 +7,6 @@
 - The smaller balls around the map are pickups. Each pickup will give the last person to touch the ball a point
 - The walls and the paddles will send the ball in a random direction at a random speed so watch the ball!
 ## Known Bugs:
-- Try closing the game window.
+- Try closing the game window after restarting.
 ## Credits:
 - The original makes of Pong
