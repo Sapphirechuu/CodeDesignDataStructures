@@ -1,0 +1,30 @@
+﻿  main.cpp
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(41): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(41): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(42): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(43): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(43): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(44): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(44): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(50): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(51): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(65): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(60): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(61): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(62): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(63): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(64): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(110): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(111): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(116): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(117): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(126): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(136): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(145): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(156): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\s189075\documents\raygame-master\raygame-master\raygame\main.cpp(161): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  raygame.vcxproj -> C:\Users\s189075\Documents\raygame-master\raygame-master\x64\Debug\raygame.exe
