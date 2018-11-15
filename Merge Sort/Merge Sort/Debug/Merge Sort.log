@@ -1,0 +1,4 @@
+﻿  Merge.cpp
+c:\users\s189075\source\repos\merge sort\merge sort\merge.cpp(27): warning C4018: '>=': signed/unsigned mismatch
+c:\users\s189075\source\repos\merge sort\merge sort\merge.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  Merge Sort.vcxproj -> C:\Users\s189075\source\repos\Merge Sort\Debug\Merge Sort.exe
